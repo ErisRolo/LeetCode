@@ -1,2 +1,2 @@
 # LeetCode
-LeetCode Online Judge题解
+LeetCode Online Judge
